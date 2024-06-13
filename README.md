@@ -1,2 +1,2 @@
 # rashmi-demo
-thsi is a demo for git and github
+thsi is a demo for git and github.
